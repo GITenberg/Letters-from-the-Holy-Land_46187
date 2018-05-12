@@ -1,0 +1,30 @@
+_repo: Letters-from-the-Holy-Land_46187
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46187-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Butler, Elizabeth (Elizabeth Southerden Thompson)
+    aliases:
+    - Thompson, Elizabeth Southerden
+    - Butler, Lady Elizabeth
+    birthdate: 1846
+    deathdate: 1933
+    gutenberg_agent_id: '40898'
+    url: http://www.gutenberg.org/2009/agents/40898
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Thompson
+description: ''
+gutenberg_issued: '2014-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46187'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Palestine -- Description and travel'
+- !lcc 'DS'
+title: Letters from the Holy Land
+url: http://www.gutenberg.org/ebooks/46187
